@@ -1,4 +1,7 @@
-* [代码生成](doc/code/index)
+* [首页](/)
+* [代码生成](#)
+    * [生成协议](doc/code/protocol/index)
+    * [Go Micro](doc/code/go-micro/index)
 * [自动运行](doc/auto-runner/index)
 * [接口调试](code)
 * [版本比较](code)
